@@ -9,8 +9,8 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/bcongdon/corral/internal/pkg/corfs"
 	humanize "github.com/dustin/go-humanize"
+	"github.com/rothaarlappen/corral/internal/pkg/corfs"
 	log "github.com/sirupsen/logrus"
 	"golang.org/x/sync/semaphore"
 )

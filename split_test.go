@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/bcongdon/corral/internal/pkg/corfs"
+	"github.com/rothaarlappen/corral/internal/pkg/corfs"
 	"github.com/stretchr/testify/assert"
 )
 
